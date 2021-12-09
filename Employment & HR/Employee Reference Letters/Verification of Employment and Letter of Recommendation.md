@@ -1,0 +1,38 @@
+[Contact Name]{.underline}
+
+[Address]{.underline}
+
+[Address2 ]{.underline}
+
+[City, State/Province]{.underline}
+
+[Zip/Postal Code]{.underline}
+
+**[OBJECT: ]{.underline}[COMPANY CREDIT ACCOUNT APPROVAL]{.underline}**
+
+[TO WHOM IT MAY CONCERN:]{.underline}
+
+[This will confirm that \[NAME\] has been employed by \[COMPANY NAME\]
+for approximately \[DURATION\]. During his tenure of employment, he has
+displayed a unique ability to identify and solve problems. He has been
+instrumental in the streamlining our accounting department. His
+experience in the accounting and finance area has been a valuable asset,
+one which can be of great value to any company utilizing his services.
+He is loyal and always places the welfare of the company above all else.
+His long hours and his patience with employees under him and with
+management make him an ideal employee. If available, he can certainly
+count on re-employment with our firm, should the opportunity
+arise.]{.underline}
+
+[Any company considering this individual for employment has my most
+enthusiastic recommendation. If his performance here is any indication,
+he is destined to achieve new heights in his career, and set new records
+for his future employer, as he did here.]{.underline}
+
+[Your name]{.underline}
+
+[Your title]{.underline}
+
+[(800) 123-4567]{.underline}
+
+[youremail\@yourcompany.com ]{.underline}
